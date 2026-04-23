@@ -6,4 +6,4 @@ Notes:
 
 ### Hi there! 👋
 
-@jarias.prime, A Front-End Developer who is effective at developing strong websites that achieve customer objectives. Familiar with working alongside customers to determine needs, create plans, and optimize design usability and performance. Well-versed in using Web Fundamentals (HTML, CSS, Javascript) and has Back-End programming experience as well as other resources to accomplish design requirements.
+@jarias.prime, I am a Web Developer who specializes in building, maintaining, and enhancing dynamic web applications. Adept at translating design mockups into interactive, responsive user interfaces using HTML, CSS, JavaScript, and frameworks like Vue.js, while also developing and integrating backend services and APIs to ensure seamless functionality. Skilled at collaborating with cross‑functional teams to deliver scalable, high‑quality solutions that optimize usability, performance, and business outcomes.
